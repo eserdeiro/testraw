@@ -1,0 +1,279 @@
+#EXTM3U x-tvg-url="https://i.mjh.nz/Plex/all.xml.gz"
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61ddcdc03c12aa1e5d320aaf" tvg-id="5e20b730f2f8d5003d739db7-61ddcdc03c12aa1e5d320aaf" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b4de0c09-34ab-452f-9dfd-c28dc607af6d/CaughtinProvidence_1500x1000_lightbgd.png" group-title="USA", Caught in Providence
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-caughtinprovi-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eZs6pKcbUeNKLufphJQY&channelId=61ddcdc03c12aa1e5d320aaf
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-id="5e20b730f2f8d5003d739db7-5fd115bab7ef8d002dcf181d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/24hrfreemovies_logo_dark.png" group-title="USA",24 Hour Free Movies
+
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex2/145.m3u8?ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.channel_Id=5fd115bab7ef8d002dcf181d&ads.did=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.partnerChannel=muxip.24hourmovies&ads.dnt=0&ads.app_bundle=com.plexapp.android&ads.app_name=plex&ads.app_domain=app.plex.tv&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.channel_name=24hourmovies&ads.us_privacy=1---&ads.gdpr=0&ads.consent=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6e1" tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6e1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/a8esports_logo_dark.png" group-title="USA",A8 Esports
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=904&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=611c3ac2409e4d002c85a6e1&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" tvg-id="5e20b730f2f8d5003d739db7-5f8ee3727c75fa002d9e47c1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/accdn-logo.png" group-title="USA",ACCDN
+
+https://cda7fd8376774e648dbcc6136f7b42a5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ACCDigitalNetwork/playlist.m3u8?ads.wurl_channel=599&ads.wurl_name=ACCDigitalNetwork&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=5f8ee3727c75fa002d9e47c1&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61fdad7e6448bd1648c124d9" tvg-id="5e20b730f2f8d5003d739db7-61fdad7e6448bd1648c124d9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b7e6487b-009d-4b1b-8fd6-b987c1823bf0/ACTION_logo.png" group-title="USA",ACTION!!!
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61fdad7e6448bd1648c124d9.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421" tvg-id="5e20b730f2f8d5003d739db7-5ef4e1b10d9ad000423c4421" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-espanol.png" group-title="USA",AFV EspaÃ±ol
+
+https://c054f53413c54c1d9214a6156a264c0d.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-PLEX/mt/plex/46/hls/master/playlist.m3u8?ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=5ef4e1b10d9ad000423c4421&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-id="5e20b730f2f8d5003d739db7-5ef11486d33ab9004048a1cd" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/afv-family.png" group-title="USA",AFV Family
+
+https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/mt/plex/12/hls/master/playlist.m3u8?ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=5ef11486d33ab9004048a1cd&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60bfd0907c60b7002c9765de" tvg-id="5e20b730f2f8d5003d739db7-60bfd0907c60b7002c9765de" tvg-logo="https://provider-static.plex.tv/epg/cms/production/42887ec2-a7de-47af-b491-617c3e237008/altrdtv_free_logoredux.png" group-title="USA",ALTRD.TV
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=66&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=60bfd0907c60b7002c9765de&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-id="5e20b730f2f8d5003d739db7-5fc705e2a2236e002d69f36d" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8662623e2b182f7ac9e511bd75425ae4.png" group-title="USA",AMC Thrillers
+
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=5fc705e2a2236e002d69f36d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-625499e27c2ea97b0fb75001" tvg-id="5e20b730f2f8d5003d739db7-625499e27c2ea97b0fb75001" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bc7af748-6813-4715-87c6-5ec1da97a498/arts_twg_logo.png" group-title="USA",ARTS TWG+
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-625499e27c2ea97b0fb75001.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=quTboznXEp8n7zG8JR9X
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875" tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae875" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/axstv_logo_light.png" group-title="USA",AXS TV NOW
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=777&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=eZs6pKcbUeNKLufphJQY&content_series=606605549dbfca002d2ae875&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=606605549dbfca002d2ae875
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01" tvg-id="5e20b730f2f8d5003d739db7-6151d74593dbf246f0843f01" tvg-logo="https://provider-static.plex.tv/5/epg/channels/logos/gracenote/5a7e54ee888681046719d306357620b4.png" group-title="USA",AccuWeather NOW
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eZs6pKcbUeNKLufphJQY&channelId=6151d74593dbf246f0843f01
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-id="5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png" group-title="USA",AfroLandTV
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=811&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=60e737a4ebef9d002c4d0a0c&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bec" tvg-id="5e20b730f2f8d5003d739db7-5fc705ff2f220e002d5e6bec" tvg-logo="https://provider-static.plex.tv/8/epg/channels/logos/gracenote/866933c26f860166068b42cb3ab9b396.png" group-title="USA",All Reality WE tv
+
+https://2753b02d55774ab6866ce10aba8ad6fd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AbsoluteReality/playlist.m3u8?ads.wurl_channel=475&ads.wurl_name=AbsoluteReality&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=5fc705ff2f220e002d5e6bec&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60de0520281b17002cd1d4c4" tvg-id="5e20b730f2f8d5003d739db7-60de0520281b17002cd1d4c4" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9491a201b186d68ec3f95342f41b1983.png" group-title="USA",All Weddings WE tv
+
+https://222369813f3845d48548df2608cff33d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AllWeddingsbyWEtv/playlist.m3u8?ads.wurl_channel=695&ads.wurl_name=AllWeddingsbyWEtv&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=60de0520281b17002cd1d4c4&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-612919784f53e1002c9aa219" tvg-id="5e20b730f2f8d5003d739db7-612919784f53e1002c9aa219" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/AreWeThereYet_logo_dark.png" group-title="USA",Are We There Yet?
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eZs6pKcbUeNKLufphJQY&channelId=612919784f53e1002c9aa219
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767" tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ac_samsung.png" group-title="USA",AsianCrush
+
+https://dc447fbd44e44d33b66b90c1eaaefec1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AsianCrush/playlist.m3u8?ads.wurl_channel=269&ads.wurl_name=AsianCrush&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=5eea605474085f0040ddc767&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60d4eddeb2fdec002c141137" tvg-id="5e20b730f2f8d5003d739db7-60d4eddeb2fdec002c141137" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/BABY SHARK TV_logo_dark.png" group-title="USA",BABY SHARK TV
+
+https://b804413309624ef1b04591c47e82e14c.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_BabySharkTV/playlist.m3u8?ads.wurl_channel=696&ads.wurl_name=BabySharkTV&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=60d4eddeb2fdec002c141137&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60ef3b588e782f002c8b1d06" tvg-id="5e20b730f2f8d5003d739db7-60ef3b588e782f002c8b1d06" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/best-ever-tv-logo_dark.png" group-title="USA",Best TV Ever
+
+https://f33cab4b408745b89249244375ec69c3.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_BestEver/playlist.m3u8?ads.wurl_channel=880&ads.wurl_name=BestEver&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=60ef3b588e782f002c8b1d06&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-id="5e20b730f2f8d5003d739db7-611c3ac2409e4d002c85a6df" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/blackbelt_logo_dark.png" group-title="USA",Black Belt TV
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=903&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=611c3ac2409e4d002c85a6df&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48" tvg-id="5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c8dd9cc8-2c59-42a2-b9e9-2f0c9b4093a5/blackpix_logo_dark.png" group-title="USA",BlackPix
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62280644c9f485cc7afe8c48.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61d73c3ca7b7c7f703418518" tvg-id="5e20b730f2f8d5003d739db7-61d73c3ca7b7c7f703418518" tvg-logo="https://provider-static.plex.tv/epg/cms/production/97aabe28-ab8f-463f-a124-278ba7aecc6c/qt_channel-logo_2700x1800_2.png" group-title="USA",Bloomberg Quicktake
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61d73c3ca7b7c7f703418518.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" tvg-id="5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516" tvg-logo="https://provider-static.plex.tv/epg/cms/production/17e0153c-5903-4fc1-9f5d-97bd9dccb9e0/bloomberg_logo.png" group-title="USA",Bloomberg TV
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-61d73ab0a7b7c7f703418516.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62166f7e5abdd3d5556a1bad" tvg-id="5e20b730f2f8d5003d739db7-62166f7e5abdd3d5556a1bad" tvg-logo="https://provider-static.plex.tv/epg/cms/production/9cde1762-5246-44a6-b904-85c6ab68771d/BusinessRockstars_logo_darkV2.png" group-title="USA",Business Rockstars
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62166f7e5abdd3d5556a1bad.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6" tvg-id="5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/bec0159a-d07c-4284-9aa2-0f5aeaf989cb/Cinepride_logo_dark.png" group-title="USA",CINEPRIDE
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62167144ab2095ca85353ad6.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-618adcbb6769b2b0bcc4c17f" tvg-id="5e20b730f2f8d5003d739db7-618adcbb6769b2b0bcc4c17f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b423ff8b-a491-48ae-8148-7f30ac09d7c9/Jacob_Gordon_-_Commune_Logo_Light.png" group-title="USA",COMMUNE
+
+https://a3b333b2cdfb4b05934aa1a4c3fd26d4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_Commune/playlist.m3u8?ads.wurl_channel=996&ads.wurl_name=Commune&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=618adcbb6769b2b0bcc4c17f&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f79" tvg-id="5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f79" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/069d208582c2b8f3a6aa8942f930977f.png" group-title="USA",CONtv
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f79.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f5132d862fe160040f26b32" tvg-id="5e20b730f2f8d5003d739db7-5f5132d862fe160040f26b32" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinedigm_contv_anime_1.png" group-title="USA",CONtv Anime
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132d862fe160040f26b32.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65" tvg-id="5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dee3468a-a0c7-499f-a92b-84efd63b84de/CL_logo.png" group-title="USA",CampusLore Sports
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6216ae22c3bbca2de8704f65.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-id="5e20b730f2f8d5003d739db7-5f5132e362fe160040f26c18" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/canelatv-v2-logo.png" group-title="USA",Canela TV
+
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=eZs6pKcbUeNKLufphJQY&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=5f5132e362fe160040f26c18&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-id="5e20b730f2f8d5003d739db7-5f0ff265d71dcb00449ec02a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c2003a11-2637-4c3b-adec-ce8b2c6e6043/Channel-Fight_Logo_Dark.png" group-title="USA",Channel Fight Masterclass
+
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=68&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=eZs6pKcbUeNKLufphJQY&content_series=5f0ff265d71dcb00449ec02a&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=5f0ff265d71dcb00449ec02a&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af" tvg-id="5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/6e408acac4d8b280300b3c383c0d6c6c.png" group-title="USA",Cheddar News
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f6b8e5900b0950040d0f2af.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61a94815f6575693e6392561" tvg-id="5e20b730f2f8d5003d739db7-61a94815f6575693e6392561" tvg-logo="https://provider-static.plex.tv/epg/cms/production/3b435083-eb80-4f1a-ae78-fd6cab44964c/CSS_1920x1080-Transparent_-_Sue_Chang.png" group-title="USA",Chicken Soup for the Soul
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00540-crackleplusllc-chickensoup-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eZs6pKcbUeNKLufphJQY&channelId=61a94815f6575693e6392561
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-id="5e20b730f2f8d5003d739db7-6018913ea15130002b28418f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/chiquilines_logo_light.png" group-title="USA",Chiquilines
+
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-chiquilines-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eZs6pKcbUeNKLufphJQY&channelId=6018913ea15130002b28418f
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-616df4c10dfa27ee465797fc" tvg-id="5e20b730f2f8d5003d739db7-616df4c10dfa27ee465797fc" tvg-logo="https://provider-static.plex.tv/epg/cms/production/daec6359-e835-443c-9eab-6d6bb07a4ab7/chivetv-logo.png" group-title="USA",ChiveTV
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01325-atmosphere-chivetv-plex-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eZs6pKcbUeNKLufphJQY&channelId=616df4c10dfa27ee465797fc
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-id="5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d3" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/choppertown.png" group-title="USA",Choppertown
+
+https://6c4d10b7b847421db903914a39b00eb7.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-11-CHOPPERTOWN-PLEX/mt/plex/11/hls/master/playlist.m3u8?ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=5ef11487d33ab9004048a1d3&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60240f57676235002df19f47" tvg-id="5e20b730f2f8d5003d739db7-60240f57676235002df19f47" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinereal_logo_dark_v3.png" group-title="USA",Cine Real
+
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinereal-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eZs6pKcbUeNKLufphJQY&channelId=60240f57676235002df19f47
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6018913fa15130002b284197" tvg-id="5e20b730f2f8d5003d739db7-6018913fa15130002b284197" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cinesureno_logo_light.png" group-title="USA",Cine SureÃ±o
+
+https://olympusamagi.amagi.tv/hls/amagi_hls_data_olympusat-cinesureno-plex/CDN/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eZs6pKcbUeNKLufphJQY&channelId=6018913fa15130002b284197
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-id="5e20b730f2f8d5003d739db7-616df1e90dfa27ee465797fa" tvg-logo="https://provider-static.plex.tv/epg/cms/production/e4ba10a4-dbb2-4d15-b268-1ed43ddf7e4b/cinelife-logo.png" group-title="USA",CineLife
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00308-magnoliapicture-cinelife-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eZs6pKcbUeNKLufphJQY&channelId=616df1e90dfa27ee465797fa
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60a9d104d162b9002d05a60a" tvg-id="5e20b730f2f8d5003d739db7-60a9d104d162b9002d05a60a" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Cinehouse_logo_dark.png" group-title="USA",Cinehouse
+
+https://3e14f4fda10247bc907cf85bbf6f6d88.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Cinehouse/playlist.m3u8?ads.wurl_channel=492&ads.wurl_name=Cinehouse&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=60a9d104d162b9002d05a60a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-id="5e20b730f2f8d5003d739db7-61aaa0cc784a2161d3caf7ff" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/0079d02e-afb6-4d85-a986-441817927418/stingray-classic-rock_logo_dark.png" group-title="USA",Classic Rock
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1389&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=61aaa0cc784a2161d3caf7ff&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-id="5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615" tvg-logo="https://provider-static.plex.tv/epg/cms/production/dc08f4b8-91c3-4b3a-9007-4330f03a0103/ClassicRock_logo_light.png" group-title="USA",Classic Rock Network
+
+https://cdn17.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/ClassicRock-Channel-Plex/index.m3u8?ads.X-PLEX-TOKEN=eZs6pKcbUeNKLufphJQY&ads.CHANNEL=6196c8c01d310bf925e02615&ads.DEVICE_ID=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.DNT=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6111b06a8f945c002c45dd12" tvg-id="5e20b730f2f8d5003d739db7-6111b06a8f945c002c45dd12" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ClixTV_logo_dark_v2.png" group-title="USA",ClixTV
+
+https://706c87fc5de5427486fd3a9d7cfede10.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_Clix/playlist.m3u8?ads.wurl_channel=1098&ads.wurl_name=Clix&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=6111b06a8f945c002c45dd12&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-id="5e20b730f2f8d5003d739db7-60affff8623f2f002c5bb4a1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/combatgo_logo_dark.png" group-title="USA",Combat Go
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=726&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=eZs6pKcbUeNKLufphJQY&content_series=60affff8623f2f002c5bb4a1&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=60affff8623f2f002c5bb4a1&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76" tvg-id="5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76" tvg-logo="https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3366a93c5524bfffc8509041e249a08b.png" group-title="USA",Comedy Dynamics
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de5e0b3f5003f5d9f76.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-id="5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png" group-title="USA",Cooking Panda
+
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=eZs6pKcbUeNKLufphJQY&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=5f07e9fdf313eb0041bbecda&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-62316e8eb9d292cb4ad7499f" tvg-id="5e20b730f2f8d5003d739db7-62316e8eb9d292cb4ad7499f" tvg-logo="https://provider-static.plex.tv/epg/cms/production/243a72ad-cd77-482f-814c-f3d6d5229c6e/cowboy_way_channel_logo_light.png" group-title="USA",Cowboy Way
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62316e8eb9d292cb4ad7499f.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5fd2759bc8634d002d9ff9bc" tvg-id="5e20b730f2f8d5003d739db7-5fd2759bc8634d002d9ff9bc" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/crackle_logo_dark.png" group-title="USA",Crackle
+
+https://crackle-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eZs6pKcbUeNKLufphJQY&channelId=5fd2759bc8634d002d9ff9bc&caid=2520545&coppa=0&uid=1g3i9b2eb-l9qm-06o-o263-j5rjl0dj7s/hls/amagi_hls_data_crackleAA-crackle-plex/CDN/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" tvg-id="5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f41" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/crime-360-logo.png" group-title="USA",Crime 360
+
+https://3440fd560ae042b3827ece4da26dec30.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Crime360/playlist.m3u8?ads.wurl_channel=393&ads.wurl_name=Crime360&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=5f74cf7effbe690040689f41&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6" tvg-id="5e20b730f2f8d5003d739db7-5eea605674085f0040ddc7a6" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/dark_matter_tv_logo_dark.png" group-title="USA",Dark Matter TV
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoasttvllc-darkmatter-plex/playlist.m3u8?us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eZs6pKcbUeNKLufphJQY&channelId=5eea605674085f0040ddc7a6
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-618198fe4e1b6764011b046a" tvg-id="5e20b730f2f8d5003d739db7-618198fe4e1b6764011b046a" tvg-logo="https://provider-static.plex.tv/epg/cms/production/96d7d0f2-6aff-4bf8-9ad6-37776e655f5f/thumbnail_discoverfilm_logo_light.png" group-title="USA",Discover Film
+
+https://2953c6ed7ab54067823fe467ad9ed80f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_DiscoverFilm/playlist.m3u8?ads.wurl_channel=1009&ads.wurl_name=DiscoverFilm&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=618198fe4e1b6764011b046a&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab" tvg-id="5e20b730f2f8d5003d739db7-614e286b2bac097ffd6fd6ab" tvg-logo="https://provider-static.plex.tv/uploads/staging/827aedde-6135-474f-a521-ff98695aaa81/documentaryplus_logo_dark.png" group-title="USA",Documentary+
+
+https://6597ae5708154ad8be72bf6785da3b90.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_DocumentaryPlus/playlist.m3u8?ads.wurl_channel=965&ads.wurl_name=DocumentaryPlus&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=614e286b2bac097ffd6fd6ab&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5efe1de4e0b3f5003f5d9f73" tvg-id="5e20b730f2f8d5003d739db7-5efe1de4e0b3f5003f5d9f73" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/96e81d4064875f4e85afe9390c0e42d4.png" group-title="USA",Docurama
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de4e0b3f5003f5d9f73.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5efe1de8e0b3f5003f5d9f91" tvg-id="5e20b730f2f8d5003d739db7-5efe1de8e0b3f5003f5d9f91" tvg-logo="https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0e7afac8be6f291e31bd58d84323cdc5.png" group-title="USA",Dove
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5efe1de8e0b3f5003f5d9f91.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6216723e2c2627c068e73ad4" tvg-id="5e20b730f2f8d5003d739db7-6216723e2c2627c068e73ad4" tvg-logo="https://provider-static.plex.tv/epg/cms/production/6927ff31-166c-4ab8-8703-c088ec16f768/DungeonTV_logo_dark.png" group-title="USA",Dungeon TV
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6216723e2c2627c068e73ad4.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60aecdbf87f9b1002ce12325" tvg-id="5e20b730f2f8d5003d739db7-60aecdbf87f9b1002ce12325" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/es24_logo_dark.png" group-title="USA",ES24
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=727&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=eZs6pKcbUeNKLufphJQY&content_series=60aecdbf87f9b1002ce12325&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=60aecdbf87f9b1002ce12325&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-603da0d5d4e466002cdda4d1" tvg-id="5e20b730f2f8d5003d739db7-603da0d5d4e466002cdda4d1" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/ESTV_logo_dark.png" group-title="USA",ESTV
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=461&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=eZs6pKcbUeNKLufphJQY&content_series=603da0d5d4e466002cdda4d1&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=603da0d5d4e466002cdda4d1&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5eea71d45252710041e0ccb9" tvg-id="5e20b730f2f8d5003d739db7-5eea71d45252710041e0ccb9" tvg-logo="https://provider-static.plex.tv/9/epg/channels/logos/gracenote/99e72543a0f4b3754e3b0a5aa18b13dc.png" group-title="USA",Edge Sport
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d45252710041e0ccb9.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-id="5e20b730f2f8d5003d739db7-621674f168c966be92737ce6" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png" group-title="USA",El Conflicto TV
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" tvg-id="5e20b730f2f8d5003d739db7-5f170d61b898490041b49360" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/electric-now.png" group-title="USA",Electric Now
+
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=70&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&content_title=eZs6pKcbUeNKLufphJQY&content_series=5f170d61b898490041b49360&custom4=plex&gdpr=0&device_make=&device_model=&coppa=0&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=5f170d61b898490041b49360&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d97f682a3002c34829b" tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829b" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellanews_logo_dark.png" group-title="USA",Estrella News
+
+https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eZs6pKcbUeNKLufphJQY&channelId=60089d97f682a3002c34829b&uid=1g3i9c5i7-h8tj-u9g-zwox-5xvd8j6jbdk/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-id="5e20b730f2f8d5003d739db7-60089d98f682a3002c34829f" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellatv_logo_dark.png" group-title="USA",Estrella TV
+
+https://estrellatv-plex.amagi.tv/amRdirect/us_privacy=1---&did=62274240-07e7-5d94-8dc8-ef68cf19e175&dnt=0&X-Plex-Token=eZs6pKcbUeNKLufphJQY&channelId=60089d98f682a3002c34829f&uid=1g3i9b9in-qc4p-cfo-fkol-f39cqekpol7/hls/amagi_hls_data_plexAAAAA-estrellatv-plex/CDN/playlist.m3u8
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d90f682a3002c348299" tvg-id="5e20b730f2f8d5003d739db7-60089d90f682a3002c348299" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/euronews_logo_dark2.png" group-title="USA",Euronews
+
+https://38d9c83374e046d8b82e01a6b699ac9d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsWorld/playlist.m3u8?ads.wurl_channel=670&ads.wurl_name=EuronewsWorld&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=60089d90f682a3002c348299&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-id="5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c513864a-c3a0-4264-b5e0-0af665dccdfb/euronews_deutsch_logo.png" group-title="USA",Euronews Deutsch
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245efe9f137de43897ea1ae.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-id="5e20b730f2f8d5003d739db7-60089d97f682a3002c34829d" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/euronewsespanol_logo_dark2.png" group-title="USA",Euronews EspaÃ±ol
+
+https://2e0d18116bec40e088c0723dc56accf5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_EuronewsSpanish/playlist.m3u8?ads.wurl_channel=671&ads.wurl_name=EuronewsSpanish&ads.coppa=0&ads.us_privacy=1---&ads.psid=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.targetopt=0&ads.plex_token=eZs6pKcbUeNKLufphJQY&ads.plex_id=60089d97f682a3002c34829d&ads.ua=okhttp%2F4.9.0&ads.app_bundle=com.plexapp.android&ads.app_store_url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.plexapp.android&ads.gdpr=0&ads.consent=0&ads.device_type=handset&ads.device_id_type=
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-id="5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f7bd2558-8dc2-4bf9-86a9-b37987542dd7/euronews_francais_logo.png" group-title="USA",Euronews FranÃ§ais
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245f06793b402a3d1097787.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-id="5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789" tvg-logo="https://provider-static.plex.tv/epg/cms/production/d5a957c1-7d63-4ce6-be78-74a4af1228fd/euronews_italiano_logo.png" group-title="USA",Euronews Italiano
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245f13093b402a3d1097789.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-id="5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9" tvg-logo="https://provider-static.plex.tv/epg/cms/production/ec2b06ac-61e3-4707-a17b-562d69044a5c/euronews_portuguese_logo.png" group-title="USA",Euronews Portuguese
+
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6245cd154f27f4e9c76d67e9.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=eZs6pKcbUeNKLufphJQY
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb" tvg-id="5e20b730f2f8d5003d739db7-61aa9f50784a2161d3caf7fb" tvg-logo="https://provider-static.plex.tv/epg/cms/staging/081b8bca-9f8e-44a6-8173-c49e124bb7d2/stingray-everything-80s_logo_dark.png" group-title="USA",Everything â€˜80s 
+
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1387&livestream=1&live=1&app_bundle=com.plexapp.android&did=62274240-07e7-5d94-8dc8-ef68cf19e175&app_domain=app.plex.tv&app_name=plex&h=&w=&custom4=plex&gdpr=0&device_make=&device_model=&coppa=1&us_privacy=1---&custom_6=eZs6pKcbUeNKLufphJQY&custom_7=61aa9f50784a2161d3caf7fb&is_lat=0
+
+#EXTINF:-1 channel-id="plex-5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-id="5e20b730f2f8d5003d739db7-60aeb5cd87f9b1002ce12321" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/Extreme_logo_dark.png" group-title="USA",Extreme Plus
